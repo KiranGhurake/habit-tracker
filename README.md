@@ -1,8 +1,8 @@
-#hosted link:--  https://avinash-habit-tracker.netlify.app/
+#hosted link:-- 
 
 # habit-tracker
 
-repo link:--     https://github.com/avinash-mali/habit-tracker/
+repo link:--     https://github.com/KiranGhurake/habit-tracker/
 
 # Getting Started with Create React App
 
